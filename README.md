@@ -10,6 +10,6 @@ ZenithOS-Kernel là dự án kernel mã nguồn mở, phát triển từ con s�
 - Early development
 - Booting & kernel experiments
 
-A Vietnamese open-source OS journey.
+> A Vietnamese open-source OS journey.
 
 > This project is built for learning and research purposes.
